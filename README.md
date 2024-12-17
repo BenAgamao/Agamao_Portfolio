@@ -35,20 +35,20 @@ Welcome to my personal portfolio website! I hope I can bring you informative dis
 
 Below are some of the sample outputs I took part with.
 
-### Project 1: Picture 1
+### Project 1: Building Density Map of Bocaue
 
-![Pic1](ben2.png)  
-**Description**: This is a description of the first project. Here, you can explain the project and its key details.
+![Pic1](ben3.png)  
+**Description**: Building Data from OSM are used to compute for the Density. 
 
-### Project 2: Picture 2
+### Project 2: Level of Walkability to Greenspaces of Selected Green Space in Quezon City. 
 
-![Pic2](ben3.png)  
-**Description**: This is a description of the second project. Explain the features and the technologies used in this project.
+![Pic2](ben2.png)  
+**Description**: A set 4.5 kph walking speed is used to calculate walkability to urban green spaces. 
 
-### Project 3: Picture 3
+### Project 3: Urban Cooling Relief Accessibility
 
 ![Pic3](ben4.png)  
-**Description**: This is a description of the third project. You can describe how this project impacted your growth and what you learned from it.
+**Description**: Combined LST and Walkability maps were used to generate Cooling Relief Accessibility. 
 
 ---
 
