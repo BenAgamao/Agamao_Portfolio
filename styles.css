@@ -1,0 +1,57 @@
+/* styles.css */
+
+/* General Page Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #ffffff; /* White background */
+}
+
+.main-content {
+  display: flex;
+  height: 100vh; /* Full viewport height */
+}
+
+/* Container (80% white) */
+.container {
+  width: 80%;
+  background-color: white; /* 80% white */
+  color: black;
+  padding: 20px;
+  box-sizing: border-box;
+  overflow: auto;
+}
+
+/* Sidebar (20% blue) */
+.sidebar {
+  width: 20%;
+  background-color: #1E3A8A; /* 20% Blue */
+  color: white;
+  padding: 20px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Image Styling */
+.sidebar img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Styling for headers */
+h1, h2 {
+  text-align: center;
+}
+
+/* Optional: Adjust font sizes */
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 2em;
+}
