@@ -17,7 +17,6 @@ Welcome to my personal portfolio website! I hope I can bring you informative dis
 ## Experience 
 - **Internship**: GIS Intern at University of the Philippines Resilience Institute, NOAH Planning (July - August 2024)
 
-
 --- 
 
 ## Previous Spatial Data Science Works 
@@ -28,7 +27,8 @@ Welcome to my personal portfolio website! I hope I can bring you informative dis
   - Description: The prices of rental places within Metro Manila are analyzed by assessing the influence of amenities and spatial context of the place using Google Colab and Spatial data science techniques. First, the nonspatial aspects of the places were investigated by using the data from OSM. The spatial considerations were also applied later on. The difference in prices of the places are effectively shown by generating a map and the relations of the factors were analyzed using correlation analysis and other advanced statistical methods such as spatial autocorrelation and stpatial regression analysis.
  
 - [Isochrone Maps of Walkability to Selected Greenspaces in Quezon City](https://colab.research.google.com/drive/11alak0vZxILo0fOdgyAnofQ-IivqCzOc?authuser=1#scrollTo=h2b5mjA5UV3m&uniqifier=2)
-  - In this research, I collaborated with other aspiring spatial data scientists. Our goal in this research is to determine the walking time of an individual to the nearest urban green space. At the end, outputs of isochrone polygons are generated. This is just one component of the whole point of our study, where we want to get the binvariate map of the accessibility to green space and the intensity of temperature in selected areas of  Quezon City. 
+  - In this research, I collaborated with other aspiring spatial data scientists. Our goal in this research is to determine the walking time of an individual to the nearest urban green space. At the end, outputs of isochrone polygons are generated. This is just one component of the whole point of our study, where we want to get the binvariate map of the accessibility to green space and the intensity of temperature in selected areas of  Quezon City.
+
 ---
 ## Contact
 
