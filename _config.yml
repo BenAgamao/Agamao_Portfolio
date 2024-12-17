@@ -1,20 +1,16 @@
-# remote_theme: pages-themes/leap-day@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
 # _config.yml
 markdown: kramdown
-theme: jekyll-theme-slate  # Or use any default theme if you prefer
+theme: jekyll-theme-slate  # You can keep this or remove it since you're not using a theme
 
-# Add this to link to your custom CSS
+# Link to your custom CSS
 include:
   - styles.css
 
-
-title: [Benedick Agamao]
-description: [Benedick's past and present works as an aspiring data scientist]
-Color: [Dark Blue]
-Font: [Times New Roman, 18]
-Position: Center 
+title: Benedick Agamao
+description: Benedick's past and present works as an aspiring data scientist
+Color: Dark Blue
+Font: Times New Roman, 18
+Position: Center
 
 
 
