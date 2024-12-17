@@ -54,7 +54,7 @@ Below are some of the sample outputs I took part with.
 
 ## Contact
 
-You can reach me at 
+If I inspired you or you are curious about my works, you can reach me at these contacts:
 
 - [My LinkedIn Profile](https://www.linkedin.com/in/benedick-agamao-239067317/)
 - [My GitHub Profile](https://github.com/BenAgamao)
@@ -62,3 +62,5 @@ You can reach me at
 - [My email](mailto:bgagamao@up.edu.ph)
 
 ---
+
+**Keep Learning!**
