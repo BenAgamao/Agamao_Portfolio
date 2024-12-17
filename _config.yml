@@ -1,7 +1,14 @@
 # remote_theme: pages-themes/leap-day@v0.2.0
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
-Page Color: [Primary: Blue, Secondary: White] 
+# _config.yml
+markdown: kramdown
+theme: jekyll-theme-slate  # Or use any default theme if you prefer
+
+# Add this to link to your custom CSS
+include:
+  - styles.css
+
 
 title: [Benedick Agamao]
 description: [Benedick's past and present works as an aspiring data scientist]
