@@ -16,14 +16,13 @@ Welcome to my personal portfolio website! Below you'll find details about my edu
 
 ---
 
-## Data Science and Data Engineering Works
-- 
-
----
-
 ## Contact
 
 You can reach me at [email@example.com](mailto:email@example.com).
+
+---
+
+![Benedick Agamao](Ben1.jpg)
 
 ---
 
