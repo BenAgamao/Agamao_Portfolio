@@ -18,9 +18,9 @@ The website is designed with a **dark theme** for better readability and aesthet
 
 Here, you can include details about your educational background. For example:
 
-- **Degree**: Bachelor of Science in Computer Science
-- **University**: XYZ University
-- **Year of Graduation**: 2023
+- **Degree**: Bachelor of Science in Geodetic Engineering 
+- **University**: University of the Philippines Diliman
+- **Year**: 4th Year, Batch 2025
 
 You can add more details or a list of achievements here as well!
 
