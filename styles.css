@@ -62,3 +62,14 @@ h1, h2 {
 section {
   margin-bottom: 40px;
 }
+
+/* Make links have a custom color */
+a {
+  color: #1E3A8A; /* Blue color */
+  text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+  text-decoration: underline; /* Underline when hovered */
+  color: #0000FF; /* Change color when hovered */
+}
