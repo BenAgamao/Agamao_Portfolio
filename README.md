@@ -20,11 +20,11 @@ Welcome to my personal portfolio website! Below you'll find details about my edu
 
 You can reach me at 
 
-- [My LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/benedick-agamao-239067317/)
-- [My GitHub Profile]([https://github.com/your-username](https://github.com/BenAgamao)
+- [My LinkedIn Profile](https://www.linkedin.com/in/benedick-agamao-239067317/)
+- [My GitHub Profile](https://github.com/BenAgamao)
 - [My Blog](https://your-blog.com)
 
-You can reach me at [My email](mailto:bgagamao@up.edu.ph).
+You can reach me at [My email](mailto:bgagamao@up.edu.ph)
 
 ---
 
