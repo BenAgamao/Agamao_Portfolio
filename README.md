@@ -30,6 +30,28 @@ Welcome to my personal portfolio website! I hope I can bring you informative dis
   **Description**: In this research, I collaborated with other aspiring spatial data scientists. Our goal in this research is to determine the walking time of an individual to the nearest urban green space. At the end, outputs of isochrone polygons are generated. This is just one component of the whole point of our study, where we want to get the bivariate map of the accessibility to green space and the intensity of temperature in selected areas of  Quezon City.
 
 ---
+
+## My Projects
+
+Below are some of the sample outputs I took part with.
+
+### Project 1: Picture 1
+
+![Project 1](ben2.jpg)  
+**Description**: This is a description of the first project. Here, you can explain the project and its key details.
+
+### Project 2: Picture 2
+
+![Project 2](ben3.jpg)  
+**Description**: This is a description of the second project. Explain the features and the technologies used in this project.
+
+### Project 3: Picture 3
+
+![Project 3](ben4.jpg)  
+**Description**: This is a description of the third project. You can describe how this project impacted your growth and what you learned from it.
+
+---
+
 ## Contact
 
 You can reach me at 
