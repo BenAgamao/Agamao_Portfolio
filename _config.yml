@@ -6,7 +6,7 @@ theme: jekyll-theme-slate  # You can keep this or remove it since you're not usi
 include:
   - styles.css
 
-title: Benedick Agamao
+title: Benedick's Spatial Data Science Portfolio
 description: Benedick's past and present works as an aspiring data scientist
 Color: Dark Blue
 Font: Times New Roman, 18
