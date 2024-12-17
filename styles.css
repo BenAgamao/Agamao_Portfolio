@@ -3,55 +3,64 @@
 /* General Page Styles */
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: "Times New Roman", serif;
+  background-color: #ffffff;
   color: #333;
-  background-color: #ffffff; /* White background */
 }
 
-.main-content {
-  display: flex;
-  height: 100vh; /* Full viewport height */
-}
-
-/* Container (80% white) */
-.container {
-  width: 80%;
-  background-color: white; /* 80% white */
-  color: black;
-  padding: 20px;
-  box-sizing: border-box;
-  overflow: auto;
-}
-
-/* Sidebar (20% blue) */
-.sidebar {
-  width: 20%;
-  background-color: #1E3A8A; /* 20% Blue */
-  color: white;
-  padding: 20px;
-  box-sizing: border-box;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-/* Image Styling */
-.sidebar img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-}
-
-/* Styling for headers */
 h1, h2 {
   text-align: center;
 }
 
-/* Optional: Adjust font sizes */
-h1 {
-  font-size: 2.5em;
+/* Main layout: left side for image and right for content */
+.container {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
-h2 {
-  font-size: 2em;
+/* Left side image */
+.left-side {
+  width: 25%; /* Adjust the width of the image container */
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1; /* Ensure it's above other content */
+}
+
+.left-side img {
+  width: 80%; /* Adjust the image size */
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Right side for text content */
+.right-side {
+  margin-left: 25%; /* Offset for the image on the left */
+  padding: 20px;
+  box-sizing: border-box;
+  width: 75%;
+}
+
+/* Contact section style */
+.contact {
+  margin-top: 20px;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+/* Optional styling for other sections */
+section {
+  margin-bottom: 40px;
+}
+
+h1, h2 {
+  color: #1e3a8a; /* Dark Blue */
 }
