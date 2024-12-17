@@ -24,8 +24,5 @@ You can reach me at [email@example.com](mailto:email@example.com).
 
 ![Benedick Agamao](Ben1.jpg)
 
----
-
-![Benedick Agamao](Ben1.jpg)
 ```html
 <img src="Ben.jpg" alt="Benedick Agamao" style="float: right; margin-left: 20px; width: 200px; height: auto;">
