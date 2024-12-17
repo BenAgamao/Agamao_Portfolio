@@ -33,7 +33,7 @@ You can reach me at
 
 - [My LinkedIn Profile](https://www.linkedin.com/in/benedick-agamao-239067317/)
 - [My GitHub Profile](https://github.com/BenAgamao)
-- [My Facebook]([https://your-blog.com](https://www.facebook.com/benedick.agamao)
+- [My Facebook](https://www.facebook.com/benedick.agamao)
 - [My email](mailto:bgagamao@up.edu.ph)
 
 ---
