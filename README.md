@@ -22,12 +22,13 @@ Here, you can include details about your educational background. For example:
 - **University**: University of the Philippines Diliman
 - **Year**: 4th Year, Batch 2025
 
-You can add more details or a list of achievements here as well!
+- **School**: Jesus Is Lord Colleges Foundation
+- **Batch** Senior High School Graduate Batch 2021
 
 ---
 
-### Image Display
-Make sure your `Ben.jpg` image is in the repository's folder (e.g., inside an `images` folder or the root directory). You can reference the image in HTML like this:
+## Image Display
+- **Experience**
 
 ```html
 <img src="Ben.jpg" alt="Benedick Agamao" style="float: right; margin-left: 20px; width: 200px; height: auto;">
