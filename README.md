@@ -37,17 +37,17 @@ Below are some of the sample outputs I took part with.
 
 ### Project 1: Picture 1
 
-(ben2.jpg)  
+![Pic1](ben2.jpg)  
 **Description**: This is a description of the first project. Here, you can explain the project and its key details.
 
 ### Project 2: Picture 2
 
-(ben3.jpg)  
+![Pic2](ben3.jpg)  
 **Description**: This is a description of the second project. Explain the features and the technologies used in this project.
 
 ### Project 3: Picture 3
 
-(ben4.jpg)  
+![Pic3](ben4.jpg)  
 **Description**: This is a description of the third project. You can describe how this project impacted your growth and what you learned from it.
 
 ---
